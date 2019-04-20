@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PruebaNotificacionPush</string>
+    <string name="default_notification_channel_id" translatable="false">Default_channel</string>
+</resources>
